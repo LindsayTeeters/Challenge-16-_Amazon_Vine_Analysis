@@ -47,3 +47,9 @@ The first thing that was need was to read the dataset and show the dataframe wit
 - [x] 5-Star Non-Vine reviews make up 54.2% of the total reviews on the Pet Supply dataset. 
 
 ![5 Star Calc](https://github.com/LindsayTeeters/Challenge-16-_Amazon_Vine_Analysis/blob/main/Resources/5%20star%20calculation.png)
+
+-----------------------------------------------------------------------------------------------------------------------------------
+
+## Summary
+
+In Summary, the results did not show any bias when rating the pet supply products. The number of 5-star reviews made up a very small population (<1%) in the overall non-vine and vine reviews. This leads us to safely assume that the Paid Vine Reviewers took thier review seriously and stayed objective in their written statment. If would be good to note that we should also look at other critera to support our assumption in the future. Other criteria factors would include Verified/Non-verified purchases and helpful/non-helpful purchases. We could look at how this other critera percentage factors into the total count as well. 
