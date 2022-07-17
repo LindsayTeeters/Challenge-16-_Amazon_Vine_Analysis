@@ -20,6 +20,7 @@ The first thing that was need was to read the dataset and show the dataframe wit
   - Question 3: What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
 
 
-<b> Question 1 </b> <i> How many Vine reviews and non-Vine reviews were there? </i>
+<b>Question 1</b> <i> How many Vine reviews and non-Vine reviews were there? </i>
 
 ![Vine Review Sum](https://github.com/LindsayTeeters/Challenge-16-_Amazon_Vine_Analysis/blob/main/Resources/Vine%20Reviewed%20Summary.png)
+The image above shows us the summary dataframe for vine reviews. Their were 170 vine reviews for the selected petsupply dataset.
