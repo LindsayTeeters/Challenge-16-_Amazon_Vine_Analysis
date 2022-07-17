@@ -46,3 +46,4 @@ The first thing that was need was to read the dataset and show the dataframe wit
 - [x] 5-Star Vine reviews make up 0.17% of the toal reviews on the Pet Supply dataset.
 - [x] 5-Star Non-Vine reviews make up 54.2% of the total reviews on the Pet Supply dataset. 
 
+1[5Star Calc](https://github.com/LindsayTeeters/Challenge-16-_Amazon_Vine_Analysis/blob/main/Resources/5%20star%20calculation.png)
