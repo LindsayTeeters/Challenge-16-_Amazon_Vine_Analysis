@@ -21,6 +21,7 @@ The first thing that was need was to read the dataset and show the dataframe wit
 
 
 <b>Question 1</b> <i> How many Vine reviews and non-Vine reviews were there? </i>
+
 There were 170 vine reviews within the selected pet supply dataset.
 ![Vine Review Sum](https://github.com/LindsayTeeters/Challenge-16-_Amazon_Vine_Analysis/blob/main/Resources/Vine%20Reviewed%20Summary.png) 
 
