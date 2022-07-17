@@ -20,7 +20,7 @@ The first thing that was need was to read the dataset and show the dataframe wit
   - Question 3: What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
 
 
-<b>Question 1</b> <i> How many Vine reviews and non-Vine reviews were there? </i>
+<b><u>Question 1</u></b> <i> How many Vine reviews and non-Vine reviews were there? </i>
 
 - [x] There were 170 vine reviews within the selected pet supply dataset. This makes up a very small percentage of the reviews for these types of products. It's < 1% of the total reviews. (0.45% to be exact.)
  
