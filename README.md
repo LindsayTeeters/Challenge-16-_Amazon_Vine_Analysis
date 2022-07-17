@@ -10,8 +10,7 @@ The Amazon Vine program is a service that allows manufactures dn publishers to r
 
 -----------------------------------------------------------------
 
-## Results
-For the Pet Supply Review Dataset
+## Results (For the Pet Supply Review Dataset) 
 
 ![PetSupplyReviewDF](https://github.com/LindsayTeeters/Challenge-16-_Amazon_Vine_Analysis/blob/main/Resources/PetSupplyReviewWhole%20Table.png)
 
